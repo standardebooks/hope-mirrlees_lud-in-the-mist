@@ -28,43 +28,44 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Lud-in-the-Mist</dc:title>
 		<meta property="file-as" refines="#title">Lud-in-the-Mist</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
-		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
-		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fantasy</meta>
+		<dc:description id="description">After more than two hundred years of stability, a sudden surge in contraband fairy fruit threatens the peace and mental heath of citizens in the borderland town of Lud-in-the-Mist.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Two hundred years ago, merchants in the small country of Dorimare, weary of the capricious nature of the ruling class, cast out the aristocracy and established their own government. Believing that their former rulers’ erratic behavior was caused by their neighbors in Fairyland, the mention of anything fairy quickly became taboo among the citizens of Dorimare.&lt;/p&gt;
+			&lt;p&gt;Now, though, illicit trade of fairy fruit is on the rise in the border town of Lud-in-the-Mist and the government seems powerless to stop it. As influential families fall victim to the maddening effects of the fruit it becomes clear that someone is working to undermine the status-quo and the Mayor needs to discover who before it’s too late.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Lud-in-the-Mist&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/hope-mirrlees"&gt;Hope Mirrlees’s&lt;/a&gt; third and most popular book. It has been reprinted several times since it’s original publication and was a part of the Fantasy Masterworks series produced by Orion Books. It has been referred to as a masterpiece of fantasy literature and author Neil Gaiman called it “a little golden miracle of a book.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/68061</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/ludinthemist00mirr_0</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lud-in-the-Mist</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/hope-mirrlees_lud-in-the-mist</meta>
 		<dc:creator id="author">Hope Mirrlees</dc:creator>
 		<meta property="file-as" refines="#author">Mirrlees, Hope</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Hope_Mirrlees</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no2001048986</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Andrew John Henry Way</dc:contributor>
+		<meta property="file-as" refines="#artist">Way, Andrew John Henry</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Andrew_John_Henry_Way</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Shaun Mudd</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Mudd, Shaun</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Mary Meehan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Meehan, Mary</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdp.net</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Jason DeCock</dc:contributor>
+		<meta property="file-as" refines="#producer-1">DeCock, Jason</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
