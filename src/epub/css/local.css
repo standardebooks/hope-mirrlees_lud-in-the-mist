@@ -92,10 +92,6 @@ section[epub|type~="epigraph"] > *{
 	display: none;
 }
 
-[epub|type~="z3998:song"] p + p{
-	margin-top: 1em;
-}
-
 p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
