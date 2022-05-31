@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/hope-mirrlees/lud-in-the-mist</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-05-31T17:16:31Z</dc:date>
+		<meta property="dcterms:modified">2022-05-31T17:16:31Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -31,15 +31,15 @@
 		<meta property="se:subject">Fantasy</meta>
 		<dc:description id="description">After more than two hundred years of stability, a sudden surge in contraband fairy fruit threatens the peace and mental heath of citizens in the borderland town of Lud-in-the-Mist.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Two hundred years ago, merchants in the small country of Dorimare, weary of the capricious nature of the ruling class, cast out the aristocracy and established their own government. Believing that their former rulers’ erratic behavior was caused by their neighbors in Fairyland, the mention of anything fairy quickly became taboo among the citizens of Dorimare.&lt;/p&gt;
-			&lt;p&gt;Now, though, illicit trade of fairy fruit is on the rise in the border town of Lud-in-the-Mist and the government seems powerless to stop it. As influential families fall victim to the maddening effects of the fruit it becomes clear that someone is working to undermine the status-quo and the Mayor needs to discover who before it’s too late.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Lud-in-the-Mist&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/hope-mirrlees"&gt;Hope Mirrlees’s&lt;/a&gt; third and most popular book. It has been reprinted several times since it’s original publication and was a part of the Fantasy Masterworks series produced by Orion Books. It has been referred to as a masterpiece of fantasy literature and author Neil Gaiman called it “a little golden miracle of a book.”&lt;/p&gt;
+			&lt;p&gt;Two hundred years ago, merchants in the small country of Dorimare, weary of the capricious nature of the ruling class, cast out the aristocracy and established their own government. Believing that their former rulers’ erratic behavior was caused by their neighbors in Fairyland, the mention of anything fairy quickly became taboo among Dorimare’s citizens.&lt;/p&gt;
+			&lt;p&gt;Now, though, illicit trade of fairy fruit is on the rise in the border town of Lud-in-the-Mist and the government seems powerless to stop it. As influential families fall victim to the maddening effects of the fruit it becomes clear that someone is working to undermine the status quo, and the Mayor needs to discover who it is before it’s too late.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Lud-in-the-Mist&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/hope-mirrlees"&gt;Hope Mirrlees’s&lt;/a&gt; third and most popular book. It has been reprinted several times, and was a part of the Fantasy Masterworks series produced by Orion Books. It has been referred to as a masterpiece of fantasy literature, with Neil Gaiman calling it “a little golden miracle of a book.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/68061</dc:source>
 		<dc:source>https://archive.org/details/ludinthemist00mirr_0</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">89858</meta>
+		<meta property="se:reading-ease.flesch">67.99</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lud-in-the-Mist</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/hope-mirrlees_lud-in-the-mist</meta>
 		<dc:creator id="author">Hope Mirrlees</dc:creator>
@@ -72,6 +72,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
