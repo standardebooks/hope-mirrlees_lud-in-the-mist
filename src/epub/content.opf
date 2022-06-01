@@ -28,6 +28,15 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Lud-in-the-Mist</dc:title>
 		<meta property="file-as" refines="#title">Lud-in-the-Mist</meta>
+		<dc:subject id="subject-1">Fantasy fiction</dc:subject>
+		<dc:subject id="subject-2">Fairies -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Imaginary places -- Fiction </dc:subject>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85047114</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008103468</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008123035</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<dc:description id="description">After more than two hundred years of stability, a sudden surge in contraband fairy fruit threatens the peace and mental heath of citizens in the borderland town of Lud-in-the-Mist.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
