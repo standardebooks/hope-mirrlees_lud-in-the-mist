@@ -47,7 +47,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/68061</dc:source>
 		<dc:source>https://archive.org/details/ludinthemist00mirr_0</dc:source>
-		<meta property="se:word-count">89858</meta>
+		<meta property="se:word-count">89846</meta>
 		<meta property="se:reading-ease.flesch">67.99</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lud-in-the-Mist</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/hope-mirrlees_lud-in-the-mist</meta>
