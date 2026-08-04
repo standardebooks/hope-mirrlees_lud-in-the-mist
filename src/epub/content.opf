@@ -40,7 +40,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008123035</meta>
 		<meta property="schema:genre">Fantasy</meta>
-		<dc:abstract>After more than two hundred years of stability, a sudden surge in contraband fairy fruit threatens the peace and mental heath of citizens in the borderland town of Lud-in-the-Mist.</dc:abstract>
+		<meta property="schema:abstract">After more than two hundred years of stability, a sudden surge in contraband fairy fruit threatens the peace and mental heath of citizens in the borderland town of Lud-in-the-Mist.</meta>
 		<dc:description>
 			&lt;p&gt;Two hundred years ago, merchants in the small country of Dorimare, weary of the capricious nature of the ruling class, cast out the aristocracy and established their own government. Believing that their former rulers’ erratic behavior was caused by their neighbors in Fairyland, the mention of anything fairy quickly became taboo among Dorimare’s citizens.&lt;/p&gt;
 			&lt;p&gt;Now, though, illicit trade of fairy fruit is on the rise in the border town of Lud-in-the-Mist and the government seems powerless to stop it. As influential families fall victim to the maddening effects of the fruit it becomes clear that someone is working to undermine the status quo, and the Mayor needs to discover who it is before it’s too late.&lt;/p&gt;
